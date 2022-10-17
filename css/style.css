@@ -1,5 +1,4 @@
 *{
-    padding:0;
     margin: 0;
     box-sizing: border-box;
 }
@@ -31,4 +30,28 @@
   #data-scrittura {
     color: grey;
 
+  }
+  
+  .tim-images {
+    margin-top: 100px;
+  }
+
+  #yellow-background {
+    background-color: yellow;
+  }
+
+  #capitolo-lorem {
+    margin: 10px;
+  }
+
+  #unordered-list {
+    margin: 0;
+  }
+
+  #tabella {
+    margin-top: 10px;
+  }
+
+  .colonne-tabella {
+    margin: 10px;
   }
