@@ -1,0 +1,21 @@
+*{
+    padding:0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.header-pattern {
+    width: 100%;
+    height: 10%;
+}
+
+#container {
+    width: 100%;
+    
+}
+
+#immagine-pattern {
+    width: 100%;
+}
+
+
