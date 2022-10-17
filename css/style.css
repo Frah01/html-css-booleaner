@@ -1,6 +1,7 @@
 *{
     margin: 0;
     box-sizing: border-box;
+    padding: 0;
 }
 
 .header-pattern {
@@ -9,15 +10,15 @@
     width: 100%;
     height: 100px;
     background-color: deepskyblue;
+    background-size: contain;
   }
-
+#logo-img {
+  margin-top: 20px;
+}
   #logo {
     width: 300px;
   }
 
-  #titolo {
-    margin-top: 40px;
-  }
 
   #scritto-da {
     color: grey;
@@ -45,16 +46,18 @@
   }
 
   #unordered-list {
-    margin: 0;
+    margin-left: 20px;
   }
 
   #tabella {
     margin-top: 10px;
     width: 100%;
+    border-spacing: 0;
   }
 
   .colonne-tabella {
     color: white;
+    text-align: left;
   }
 
   #primo-tr {
