@@ -50,8 +50,22 @@
 
   #tabella {
     margin-top: 10px;
+    width: 100%;
   }
 
   .colonne-tabella {
-    margin: 10px;
+    color: white;
+  }
+
+  #primo-tr {
+    background-color:cornflowerblue
+  }
+
+
+  #body-table{
+    width: 100%;
+  }
+  
+  .righe-blu {
+    background-color: lightblue;
   }
