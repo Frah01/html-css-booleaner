@@ -5,17 +5,30 @@
 }
 
 .header-pattern {
+    background-image: url("../img/pattern.png");
+    background-repeat: repeat-x;
     width: 100%;
-    height: 10%;
-}
+    height: 100px;
+    background-color: deepskyblue;
+  }
 
-#container {
-    width: 100%;
-    
-}
+  #logo {
+    width: 300px;
+  }
 
-#immagine-pattern {
-    width: 100%;
-}
+  #titolo {
+    margin-top: 40px;
+  }
 
+  #scritto-da {
+    color: grey;
+  }
 
+  #the-booleaner {
+    color:deepskyblue
+  }
+
+  #data-scrittura {
+    color: grey;
+
+  }
